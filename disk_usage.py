@@ -21,4 +21,5 @@ if not check_disk_usage("/", 2, 10):
     sys.exit(1)
 
 print("Everything ok, no need to do anything")
+print("Actrully, do something")
 sys.exit(0)
